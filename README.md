@@ -44,5 +44,6 @@ def print_ul(strings):
     print(dice("add a number here");
     ```
 -Added in a sepreate file from hello world I add the functionality of rolling two dice and returning a result as Print to the number or rolles added in print(dice(). 
+
 6. If you were to start your full-stack developer position today, what would be your goals a year from now?
 -For my goals in a year from now if I start my position today is to learn more knockout.js, python and css in more detail that I worked on couple of the projects to the work method of this company. Continue learning new technique in an enviorment that promotes continuous learning and career growth. 
