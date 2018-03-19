@@ -16,9 +16,9 @@ def print_ul(strings):
 -Set up so the list will print in HTML format then define string, identify Array as string and then print string called camping. If the list is supplied by user input the function check for input being a list and contaning text to become a string for an array. 
 
 4. List 2-3 attacks that web applications are vulnerable to. How do these attacks work? How can we prevent those attacks?
--One is SQL Injection which is the biggest problem a web application is vulnerable to due to being common and useful for both developers and attackers. The attacker can use a SQL command and force local databases to open up from a webpafe search box or if the web application has users in logins. 
--Another is Cross Site Request Forgery (CSRF) wich happens when a user is tricked into clicking a link or downloading a image that execute unwanted actions by a third party. 
--Best way to to prevent attacks like this is inclued Picture clicking or questions needed answering to ensure the request is being sent by a human user and not a bot. 
+- One is SQL Injection which is the biggest problem a web application is vulnerable to due to being common and useful for both developers and attackers. The attacker can use a SQL command and force local databases to open up from a webpafe search box or if the web application has users in logins. 
+- Another is Cross Site Request Forgery (CSRF) wich happens when a user is tricked into clicking a link or downloading a image that execute unwanted actions by a third party. 
+- Best way to to prevent attacks like this is inclued Picture clicking or questions needed answering to ensure the request is being sent by a human user and not a bot. 
 5. Here is some starter code for a Flask Web Application. Expand on that and include a route that simulates rolling two dice and returns the result in JSON. You should include a brief explanation of your code.
 
     ```
@@ -46,4 +46,4 @@ def print_ul(strings):
 -Added in a sepreate file from hello world I add the functionality of rolling two dice and returning a result as Print to the number or rolles added in print(dice(). 
 
 6. If you were to start your full-stack developer position today, what would be your goals a year from now?
--For my goals in a year from now if I start my position today is to learn more knockout.js, python and css in more detail that I worked on couple of the projects to the work method of this company. Continue learning new technique in an enviorment that promotes continuous learning and career growth. 
+- For my goals in a year from now if I start my position today is to learn more knockout.js, python and css in more detail that I worked on couple of the projects to the work method of this company. Continue learning new technique in an enviorment that promotes continuous learning and career growth. 
