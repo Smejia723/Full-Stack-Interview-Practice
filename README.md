@@ -16,9 +16,9 @@ def print_ul(strings):
 -Set up so the list will print in HTML format then define string, identify Array as string and then print string called camping. If the list is supplied by user input the function check for input being a list and contaning text to become a string for an array. 
 
 4. List 2-3 attacks that web applications are vulnerable to. How do these attacks work? How can we prevent those attacks?
-- One is SQL Injection which is the biggest problem a web application is vulnerable to due to being common and useful for both developers and attackers. The attacker can use a SQL command and force local databases to open up from a webpafe search box or if the web application has users in logins. 
-- Another is Cross Site Request Forgery (CSRF) wich happens when a user is tricked into clicking a link or downloading a image that execute unwanted actions by a third party. 
-- Best way to to prevent attacks like this is inclued Picture clicking or questions needed answering to ensure the request is being sent by a human user and not a bot. 
+-One is SQL Injection which is the biggest problem a web application is vulnerable to due to being common and useful for both developers and attackers. The attacker can use a SQL command and force local databases to open up from a webpafe search box or if the web application has users in logins. 
+-Another is Cross Site Request Forgery (CSRF) wich happens when a user is tricked into clicking a link or downloading a image that execute unwanted actions by a third party. 
+-Best way to to prevent attacks like this is inclued Picture clicking or questions needed answering to ensure the request is being sent by a human user and not a bot. 
 5. Here is some starter code for a Flask Web Application. Expand on that and include a route that simulates rolling two dice and returns the result in JSON. You should include a brief explanation of your code.
 
     ```
